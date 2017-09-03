@@ -1,0 +1,24 @@
+jar {
+
+    baseName = 'iam-and-you-agency-alexa'
+    version =  '0.0.99'
+    dependsOn configurations.runtime
+
+    manifest {
+        attributes 'Main-Class': 'Launcher',
+                'Implementation-Title': 'Gradle Quickstart',
+                'Implementation-Version': version
+    }
+
+    from {
+        (configurations.runtime).collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    } {
+        exclude "META-INF/*.SF"
+        exclude "META-INF/*.DSA"
+        exclude "META-INF/*.RSA"
+    }
+
+}
+

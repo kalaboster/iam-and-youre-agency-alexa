@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "DefineAdviserIntent"
+    },
+    {
+      "intent": "DefineAdviserNDAIntent"
+    },
+    {
+      "intent": "AgreeAdviserNDAIntent"
+    },
+    {
+      "intent": "DefineFourPhasePlanIntent"
+    },
+    {
+      "intent": "DefineContributorIntent"
+    },
+    {
+      "intent": "DefineContributorNDAIntent"
+    },
+    {
+      "intent": "AgreeContributorNDAIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

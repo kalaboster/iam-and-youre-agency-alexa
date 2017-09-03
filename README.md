@@ -75,4 +75,8 @@ An application to save the world and words by writing a story.
     - Service Endpoint Type: Input arn of Lambda.
 
 
+# TODO
 
+1. Automate testing.
+2. Testing. 
+3. Write more...

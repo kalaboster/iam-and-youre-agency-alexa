@@ -1,0 +1,267 @@
+DefineAdviserIntent What be an Adviser 
+DefineAdviserIntent What be an Adviser 
+DefineAdviserIntent What be an Adviser 
+DefineAdviserIntent What be an Adviser 
+DefineAdviserIntent What be Adviser 
+DefineAdviserIntent What be Adviser 
+DefineAdviserIntent What be Adviser 
+DefineAdviserIntent What be Adviser 
+DefineAdviserIntent What Adviser 
+DefineAdviserIntent What Adviser 
+DefineAdviserIntent What Adviser 
+DefineAdviserIntent What Adviser 
+DefineAdviserIntent Why be an Adviser 
+DefineAdviserIntent Why be an Adviser 
+DefineAdviserIntent Why be an Adviser 
+DefineAdviserIntent Why be an Adviser 
+DefineAdviserIntent Why be Adviser 
+DefineAdviserIntent Why be Adviser 
+DefineAdviserIntent Why be Adviser 
+DefineAdviserIntent Why be Adviser 
+DefineAdviserIntent Why Adviser 
+DefineAdviserIntent Why Adviser 
+DefineAdviserIntent Why Adviser 
+DefineAdviserIntent Why Adviser 
+DefineAdviserIntent How be an Adviser 
+DefineAdviserIntent How be an Adviser 
+DefineAdviserIntent How be an Adviser 
+DefineAdviserIntent How be an Adviser 
+DefineAdviserIntent How be Adviser 
+DefineAdviserIntent How be Adviser 
+DefineAdviserIntent How be Adviser 
+DefineAdviserIntent How be Adviser 
+DefineAdviserIntent How Adviser 
+DefineAdviserIntent How Adviser 
+DefineAdviserIntent How Adviser 
+DefineAdviserIntent How Adviser 
+DefineAdviserIntent Where be an Adviser 
+DefineAdviserIntent Where be an Adviser 
+DefineAdviserIntent Where be an Adviser 
+DefineAdviserIntent Where be an Adviser 
+DefineAdviserIntent Where be Adviser 
+DefineAdviserIntent Where be Adviser 
+DefineAdviserIntent Where be Adviser 
+DefineAdviserIntent Where be Adviser 
+DefineAdviserIntent Where Adviser 
+DefineAdviserIntent Where Adviser 
+DefineAdviserIntent Where Adviser 
+DefineAdviserIntent Where Adviser 
+DefineAdviserIntent Who be an Adviser 
+DefineAdviserIntent Who be an Adviser 
+DefineAdviserIntent Who be an Adviser 
+DefineAdviserIntent Who be an Adviser 
+DefineAdviserIntent Who be Adviser 
+DefineAdviserIntent Who be Adviser 
+DefineAdviserIntent Who be Adviser 
+DefineAdviserIntent Who be Adviser 
+DefineAdviserIntent Who Adviser 
+DefineAdviserIntent Who Adviser 
+DefineAdviserIntent Who Adviser 
+DefineAdviserIntent Who Advise
+
+
+DefineAdviserNDAIntent What is the Adviser N D A
+DefineAdviserNDAIntent What is the Adviser non disclosure agreement
+DefineAdviserNDAIntent What is the Adviser disclosure agreement
+DefineAdviserNDAIntent What is the Adviser agreement
+DefineAdviserNDAIntent What is Adviser N D A
+DefineAdviserNDAIntent What is Adviser non disclosure agreement
+DefineAdviserNDAIntent What is Adviser disclosure agreement
+DefineAdviserNDAIntent What is Adviser agreement
+DefineAdviserNDAIntent What Adviser N D A
+DefineAdviserNDAIntent What Adviser non disclosure agreement
+DefineAdviserNDAIntent What Adviser disclosure agreement
+DefineAdviserNDAIntent What Adviser agreement
+DefineAdviserNDAIntent Why is the Adviser N D A
+DefineAdviserNDAIntent Why is the Adviser non disclosure agreement
+DefineAdviserNDAIntent Why is the Adviser disclosure agreement
+DefineAdviserNDAIntent Why is the Adviser agreement
+DefineAdviserNDAIntent Why is Adviser N D A
+DefineAdviserNDAIntent Why is Adviser non disclosure agreement
+DefineAdviserNDAIntent Why is Adviser disclosure agreement
+DefineAdviserNDAIntent Why is Adviser agreement
+DefineAdviserNDAIntent Why Adviser N D A
+DefineAdviserNDAIntent Why Adviser non disclosure agreement
+DefineAdviserNDAIntent Why Adviser disclosure agreement
+DefineAdviserNDAIntent Why Adviser agreement
+DefineAdviserNDAIntent How is the Adviser N D A
+DefineAdviserNDAIntent How is the Adviser non disclosure agreement
+DefineAdviserNDAIntent How is the Adviser disclosure agreement
+DefineAdviserNDAIntent How is the Adviser agreement
+DefineAdviserNDAIntent How is Adviser N D A
+DefineAdviserNDAIntent How is Adviser non disclosure agreement
+DefineAdviserNDAIntent How is Adviser disclosure agreement
+DefineAdviserNDAIntent How is Adviser agreement
+DefineAdviserNDAIntent How Adviser N D A
+DefineAdviserNDAIntent How Adviser non disclosure agreement
+DefineAdviserNDAIntent How Adviser disclosure agreement
+DefineAdviserNDAIntent How Adviser agreement
+DefineAdviserNDAIntent Where is the Adviser N D A
+DefineAdviserNDAIntent Where is the Adviser non disclosure agreement
+DefineAdviserNDAIntent Where is the Adviser disclosure agreement
+DefineAdviserNDAIntent Where is the Adviser agreement
+DefineAdviserNDAIntent Where is Adviser N D A
+DefineAdviserNDAIntent Where is Adviser non disclosure agreement
+DefineAdviserNDAIntent Where is Adviser disclosure agreement
+DefineAdviserNDAIntent Where is Adviser agreement
+DefineAdviserNDAIntent Where Adviser N D A
+DefineAdviserNDAIntent Where Adviser non disclosure agreement
+DefineAdviserNDAIntent Where Adviser disclosure agreement
+DefineAdviserNDAIntent Where Adviser agreement
+DefineAdviserNDAIntent Who is the Adviser N D A
+DefineAdviserNDAIntent Who is the Adviser non disclosure agreement
+DefineAdviserNDAIntent Who is the Adviser disclosure agreement
+DefineAdviserNDAIntent Who is the Adviser agreement
+DefineAdviserNDAIntent Who is Adviser N D A
+DefineAdviserNDAIntent Who is Adviser non disclosure agreement
+DefineAdviserNDAIntent Who is Adviser disclosure agreement
+DefineAdviserNDAIntent Who is Adviser agreement
+DefineAdviserNDAIntent Who Adviser N D A
+DefineAdviserNDAIntent Who Adviser non disclosure agreement
+DefineAdviserNDAIntent Who Adviser disclosure agreement
+DefineAdviserNDAIntent Who Adviser agreement
+
+
+AgreeAdviserNDAIntent  I agree to adviser N D A
+AgreeAdviserNDAIntent  agree adviser N D A
+AgreeAdviserNDAIntent  I agree to the adviser non disclosure agreement
+AgreeAdviserNDAIntent  agree to the adviser non disclosure agreement
+AgreeAdviserNDAIntent  I agree to adviser non disclosure agreement
+
+
+DefineFourPhasePlanIntent Four Phase Plan
+DefineFourPhasePlanIntent The Plan
+DefineFourPhasePlanIntent For Phase Plan
+DefineFourPhasePlanIntent Our Plan
+
+
+DefineContributorIntent What be an Contributor
+DefineContributorIntent What be an Contributor
+DefineContributorIntent What be an Contributor
+DefineContributorIntent What be an Contributor
+DefineContributorIntent What be Contributor
+DefineContributorIntent What be Contributor
+DefineContributorIntent What be Contributor
+DefineContributorIntent What be Contributor
+DefineContributorIntent What Contributor
+DefineContributorIntent What Contributor
+DefineContributorIntent What Contributor
+DefineContributorIntent What Contributor
+DefineContributorIntent Why be an Contributor
+DefineContributorIntent Why be an Contributor
+DefineContributorIntent Why be an Contributor
+DefineContributorIntent Why be an Contributor
+DefineContributorIntent Why be Contributor
+DefineContributorIntent Why be Contributor
+DefineContributorIntent Why be Contributor
+DefineContributorIntent Why be Contributor
+DefineContributorIntent Why Contributor
+DefineContributorIntent Why Contributor
+DefineContributorIntent Why Contributor
+DefineContributorIntent Why Contributor
+DefineContributorIntent How be an Contributor
+DefineContributorIntent How be an Contributor
+DefineContributorIntent How be an Contributor
+DefineContributorIntent How be an Contributor
+DefineContributorIntent How be Contributor
+DefineContributorIntent How be Contributor
+DefineContributorIntent How be Contributor
+DefineContributorIntent How be Contributor
+DefineContributorIntent How Contributor
+DefineContributorIntent How Contributor
+DefineContributorIntent How Contributor
+DefineContributorIntent How Contributor
+DefineContributorIntent Where be an Contributor
+DefineContributorIntent Where be an Contributor
+DefineContributorIntent Where be an Contributor
+DefineContributorIntent Where be an Contributor
+DefineContributorIntent Where be Contributor
+DefineContributorIntent Where be Contributor
+DefineContributorIntent Where be Contributor
+DefineContributorIntent Where be Contributor
+DefineContributorIntent Where Contributor
+DefineContributorIntent Where Contributor
+DefineContributorIntent Where Contributor
+DefineContributorIntent Where Contributor
+DefineContributorIntent Who be an Contributor
+DefineContributorIntent Who be an Contributor
+DefineContributorIntent Who be an Contributor
+DefineContributorIntent Who be an Contributor
+DefineContributorIntent Who be Contributor
+DefineContributorIntent Who be Contributor
+DefineContributorIntent Who be Contributor
+DefineContributorIntent Who be Contributor
+DefineContributorIntent Who Contributor
+DefineContributorIntent Who Contributor
+DefineContributorIntent Who Contributor
+DefineContributorIntent Who Advise
+
+
+DefineContributorNDAIntent What is the Contributor N D A
+DefineContributorNDAIntent What is the Contributor non disclosure agreement
+DefineContributorNDAIntent What is the Contributor disclosure agreement
+DefineContributorNDAIntent What is the Contributor agreement
+DefineContributorNDAIntent What is Contributor N D A
+DefineContributorNDAIntent What is Contributor non disclosure agreement
+DefineContributorNDAIntent What is Contributor disclosure agreement
+DefineContributorNDAIntent What is Contributor agreement
+DefineContributorNDAIntent What Contributor N D A
+DefineContributorNDAIntent What Contributor non disclosure agreement
+DefineContributorNDAIntent What Contributor disclosure agreement
+DefineContributorNDAIntent What Contributor agreement
+DefineContributorNDAIntent Why is the Contributor N D A
+DefineContributorNDAIntent Why is the Contributor non disclosure agreement
+DefineContributorNDAIntent Why is the Contributor disclosure agreement
+DefineContributorNDAIntent Why is the Contributor agreement
+DefineContributorNDAIntent Why is Contributor N D A
+DefineContributorNDAIntent Why is Contributor non disclosure agreement
+DefineContributorNDAIntent Why is Contributor disclosure agreement
+DefineContributorNDAIntent Why is Contributor agreement
+DefineContributorNDAIntent Why Contributor N D A
+DefineContributorNDAIntent Why Contributor non disclosure agreement
+DefineContributorNDAIntent Why Contributor disclosure agreement
+DefineContributorNDAIntent Why Contributor agreement
+DefineContributorNDAIntent How is the Contributor N D A
+DefineContributorNDAIntent How is the Contributor non disclosure agreement
+DefineContributorNDAIntent How is the Contributor disclosure agreement
+DefineContributorNDAIntent How is the Contributor agreement
+DefineContributorNDAIntent How is Contributor N D A
+DefineContributorNDAIntent How is Contributor non disclosure agreement
+DefineContributorNDAIntent How is Contributor disclosure agreement
+DefineContributorNDAIntent How is Contributor agreement
+DefineContributorNDAIntent How Contributor N D A
+DefineContributorNDAIntent How Contributor non disclosure agreement
+DefineContributorNDAIntent How Contributor disclosure agreement
+DefineContributorNDAIntent How Contributor agreement
+DefineContributorNDAIntent Where is the Contributor N D A
+DefineContributorNDAIntent Where is the Contributor non disclosure agreement
+DefineContributorNDAIntent Where is the Contributor disclosure agreement
+DefineContributorNDAIntent Where is the Contributor agreement
+DefineContributorNDAIntent Where is Contributor N D A
+DefineContributorNDAIntent Where is Contributor non disclosure agreement
+DefineContributorNDAIntent Where is Contributor disclosure agreement
+DefineContributorNDAIntent Where is Contributor agreement
+DefineContributorNDAIntent Where Contributor N D A
+DefineContributorNDAIntent Where Contributor non disclosure agreement
+DefineContributorNDAIntent Where Contributor disclosure agreement
+DefineContributorNDAIntent Where Contributor agreement
+DefineContributorNDAIntent Who is the Contributor N D A
+DefineContributorNDAIntent Who is the Contributor non disclosure agreement
+DefineContributorNDAIntent Who is the Contributor disclosure agreement
+DefineContributorNDAIntent Who is the Contributor agreement
+DefineContributorNDAIntent Who is Contributor N D A
+DefineContributorNDAIntent Who is Contributor non disclosure agreement
+DefineContributorNDAIntent Who is Contributor disclosure agreement
+DefineContributorNDAIntent Who is Contributor agreement
+DefineContributorNDAIntent Who Contributor N D A
+DefineContributorNDAIntent Who Contributor non disclosure agreement
+DefineContributorNDAIntent Who Contributor disclosure agreement
+DefineContributorNDAIntent Who Contributor agreement
+
+AgreeContributorNDAIntent  I agree to Contributor N D A
+AgreeContributorNDAIntent  agree Contributor N D A
+AgreeContributorNDAIntent  I agree to the Contributor non disclosure agreement
+AgreeContributorNDAIntent  agree to the Contributor non disclosure agreement
+AgreeContributorNDAIntent  I agree to Contributor non disclosure agreement
+
+
